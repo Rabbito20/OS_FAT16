@@ -1,2 +1,2 @@
-# OS_FAT16
+# OS_FAT16 - 2018
 Drugi domaci iz OS-a.
